@@ -10,3 +10,14 @@ body{
     background-color: green;
     margin: 50px;
 }
+
+.titulo__secundario{
+
+    color:black ;
+    background-color: yellow;
+    margin: 50px;
+}
+
+.titulo{
+    text-decoration: underline;
+}
